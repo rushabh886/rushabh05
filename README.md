@@ -1,6 +1,6 @@
 # rushabh05
 
-This repository holds my professional data credentials, technical certifications, and hands-on corporate job simulations.
+This repository holds my professional data credentials, technical certifications, and verified corporate job simulations.
 
 ### 🏅 Professional Certifications
 * **Google / Coursera:** [Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/4OVCENJ7DQJ1)
@@ -9,11 +9,6 @@ This repository holds my professional data credentials, technical certifications
 ### 📊 Data & Analytics Job Simulations
 * **[Deloitte — Data Analytics Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_CB4QayXkjuZo2b9Jo_1751376277909_completion_certificate.pdf):** Focused on data analysis, data extraction, and utilizing forensic technology to analyze business intelligence metrics.
 * **[Tata Group — Data Visualization Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_CB4QayXkjuZo2b9Jo_1752242071855_completion_certificate.pdf):** Practiced framing business scenarios, choosing effective visuals/charts, and creating dashboards to empower executive decision-making.
-* **BCG — Strategic Consulting (Basic & Advanced):** Conducted market analysis, financial modeling, and data-driven business strategy formulation.
-
-### 💡 Technology & Management Consulting Simulations
-* **Accenture — Technology Consulting:** Explored digital transformation, system architecture planning, and tech-driven business solutions.
-* **PwC — Management Consulting:** Focused on corporate problem-solving, operational efficiency, and client-facing presentation delivery.
 
 ---
 ### 🛠️ Core Technical Competencies
