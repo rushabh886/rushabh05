@@ -1,14 +1,22 @@
 # rushabh05
 
-This repository holds my official data credentials, certifications, and portfolio projects.
+This repository holds my professional data credentials, technical certifications, and hands-on corporate job simulations.
 
-### 🏅 Verified Certifications
-
+### 🏅 Professional Certifications
 * **Google / Coursera:** [Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/4OVCENJ7DQJ1)
 * **HackerRank:** [SQL (Basic) Certified](https://www.hackerrank.com/certificates/7480ee8858f7)
 
+### 📊 Data & Analytics Job Simulations
+* **[Deloitte — Data Analytics Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_CB4QayXkjuZo2b9Jo_1751376277909_completion_certificate.pdf):** Focused on data analysis, data extraction, and utilizing forensic technology to analyze business intelligence metrics.
+* **[Tata Group — Data Visualization Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_CB4QayXkjuZo2b9Jo_1752242071855_completion_certificate.pdf):** Practiced framing business scenarios, choosing effective visuals/charts, and creating dashboards to empower executive decision-making.
+* **BCG — Strategic Consulting (Basic & Advanced):** Conducted market analysis, financial modeling, and data-driven business strategy formulation.
+
+### 💡 Technology & Management Consulting Simulations
+* **Accenture — Technology Consulting:** Explored digital transformation, system architecture planning, and tech-driven business solutions.
+* **PwC — Management Consulting:** Focused on corporate problem-solving, operational efficiency, and client-facing presentation delivery.
+
 ---
-### 🛠️ Core Skills Demonstrated
-* **Data Analysis:** Data cleaning, manipulation, and decision-making pipelines.
-* **Databases & Querying:** Relational Database Basics, Advanced Filtering & Aggregations (`WHERE`, `GROUP BY`, `HAVING`), Joins, and Subqueries.
-* **Spreadsheets & Automation:** Formula optimization, Google Sheets, Excel Power Query.
+### 🛠️ Core Technical Competencies
+* **Data Analysis & Modeling:** Data cleaning pipelines, trend analysis, and insights translation.
+* **Databases & Querying:** Relational Database foundations, multi-table `JOIN` operations, subqueries, and complex aggregation.
+* **Spreadsheets & Automation:** Business logic formulas, Excel Power Query, Google Sheets.
